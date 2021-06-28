@@ -19,9 +19,9 @@
 
 ### Category Name 2
 
-- [Just phot cat](https://raven-insights.itch.io/just-photo-cat)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
+- [Just Phot Cat](https://raven-insights.itch.io/just-photo-cat)
+- [Ruin The World](https://thedynamitepriest.itch.io/ruin-the-world)
+- [Fake World](https://thedynamitepriest.itch.io/fake-world)
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
 
