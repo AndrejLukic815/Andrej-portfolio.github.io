@@ -28,6 +28,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   Software:
   </b>
   <br><br>
+  <i>
   - FL studio
   <br>
   - Unity
@@ -35,6 +36,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   - Mixamo
   <br>
   - Make human
+  </i>
   <br>
   <br><br>
   <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
