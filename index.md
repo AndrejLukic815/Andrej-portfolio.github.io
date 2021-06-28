@@ -15,8 +15,8 @@ Test text
 <img src="images/Miras_Tale_Picture.png?raw=true"/>
 
 ---
-[Fake world](http://example.com/)
-<img src="images/Fake_World_Picture.png?raw=true"/>
+[Just Photo Cat](http://example.com/)
+<img src="images/Photo_Cat_Picture.png?raw=true"/>
 
 ---
 
