@@ -3,9 +3,13 @@ logo: "/images/Slika1.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Date of birth: 21.4.1999.
   <br><br>
+  <b>
   Age: 22
+  </b>
   <br><br>
+  <b>
   Location: Vukovar/Novska/Croatia
+  </b>
   <br><br>
   <b>
   Programming skills:
