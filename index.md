@@ -26,6 +26,7 @@ Hi my name is Andrej Lukić I am a game developer from Croatia.
 Mira's Tale is a VR game situated in magical world, you play as witch that is trying to find her missing friend.
 You will explore deepest caves, dungens, forests and many more in your quest to find what happend to your friend.
 The games gameplay is linear and main focus is on story and introducing new VR mechanich in our game.
+So are you ready to embarg on a great journy of magic and spells.
 
 ---
 [Just Photo Cat](http://example.com/)
@@ -34,7 +35,6 @@ Just Photo Cat is a game that was made for Ludum dare game jam the theme of the 
 In this project were involved 5 people including me as audio designer.
 The game was made in 48 hours after the game was finished it contained some bugs we fixed most of them but still some of them remained.
 As this project was only made for game jam we didn't work much on it as we wanted to make a game that we could put in our portfolio.
-So are you ready to embarg on a great journy of magic and spells.
 
 
 ---
