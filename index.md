@@ -2,7 +2,7 @@
 
 ---
 
-### Games that I worked on: 
+### Some information about me: 
 
 [About Me:](/sample_page)
 <img src="images/Photo_Cat_Picture.png?raw=true"/>
