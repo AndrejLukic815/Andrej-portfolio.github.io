@@ -6,6 +6,7 @@
 
 [Just phot cat](/sample_page)
 <img src="images/Photo_Cat_Picture.png?raw=true"/>
+Test text
 
 ---
 [Ruin the world](/pdf/sample_presentation.pdf)
