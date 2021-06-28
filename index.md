@@ -8,7 +8,7 @@
 <img src="images/Photo_Cat_Picture.png?raw=true"/>
 
 ---
-[Ruinn the world](/pdf/sample_presentation.pdf)
+[Ruin the world](/pdf/sample_presentation.pdf)
 <img src="images/Ruin_The_World_Picture.png?raw=true"/>
 
 ---
