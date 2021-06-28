@@ -17,6 +17,9 @@ Hi my name is Andrej Lukić I am a game developer in Croatia.
 ---
 [Just Photo Cat](http://example.com/)
 <img src="images/Photo_Cat_Picture.png?raw=true"/>
+Just Photo Cat is a game that was made for Ludum dare game jam the theme of the jam was deeper and deeper.
+In this project were involved 5 people including me as audio designer.
+
 
 ---
 
