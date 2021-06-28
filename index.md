@@ -19,6 +19,9 @@ Hi my name is Andrej Lukić I am a game developer from Croatia.
 ---
 [Mira's Tale](/pdf/sample_presentation.pdf)
 <img src="images/Miras_Tale_Picture.png?raw=true"/>
+Mira's Tale is a VR game situated in magical world, you play as witch that is trying to find her missing friend.
+You will explore deepest caves, dungens, forests and many more in your quest to find what happend to your friend.
+The games gameplay is linear and main focus is on story and introducing new VR mechanich in our game.
 
 ---
 [Just Photo Cat](http://example.com/)
