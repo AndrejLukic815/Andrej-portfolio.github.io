@@ -17,7 +17,7 @@
 
 ---
 
-### Category Name 2
+### Links:
 
 - [Just Phot Cat](https://raven-insights.itch.io/just-photo-cat)
 - [Ruin The World](https://thedynamitepriest.itch.io/ruin-the-world)
