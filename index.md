@@ -6,7 +6,7 @@
 
 [About Me:](/sample_page)
 <img src="images/Hakaton_Winner_Picture.png?raw=true"/>
-Hi my name is Andrej Lukić I am a game developer in Croatia.
+Hi my name is Andrej Lukić I am a game developer from Croatia.
 
 ### Games that I worked on:
 
