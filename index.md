@@ -2,7 +2,7 @@
 
 ---
 
-### Category Name 1 
+### Games that I worked on: 
 
 [Just phot cat](/sample_page)
 <img src="images/Photo_Cat_Picture.png?raw=true"/>
