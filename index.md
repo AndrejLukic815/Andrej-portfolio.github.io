@@ -5,7 +5,7 @@
 ### Some information about me: 
 
 [About Me:](/sample_page)
-<img src="images/Photo_Cat_Picture.png?raw=true"/>
+<img src="images/Hakaton_Winner_Picture.png?raw=true"/>
 Hi my name is Andrej Lukić I am a game developer in Croatia.
 
 ### Games that I worked on:
