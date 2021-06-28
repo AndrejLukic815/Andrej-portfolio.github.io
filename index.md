@@ -22,6 +22,8 @@ Hi my name is Andrej Lukić I am a game developer in Croatia.
 
 [Ruin the World](/sample_page)
 <img src="images/Ruin_The_World_Picture.png?raw=true"/>
+Oh, NO! The world is being destroyed by unknown forces and you need to save yourself from destruction! As Commander Gonzales, your only objective is to survive!
+Try to survive as long as possible in this endless run game. The world is burning behind you as you are trying to pass obstacles in front of you.
 
 ---
 
