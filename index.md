@@ -8,11 +8,11 @@
 <img src=https://img.itch.zone/aW1hZ2UvMTAxNjQxMy81Nzk3NTYwLmpwZWc=/original/1fB9s0.jpeg>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Ruinn the world](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Fake world](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
