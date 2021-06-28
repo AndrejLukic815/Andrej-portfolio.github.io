@@ -8,6 +8,9 @@
 <img src="images/Hakaton_Winner_Picture.png?raw=true"/>
 Hi my name is Andrej Lukić I am a game developer from Croatia.
 
+[What have I achieved:](/sample_page)
+<img src="images/Hakaton_Picture.png?raw=true"/>
+
 ### Games that I worked on:
 
 ---
