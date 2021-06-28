@@ -9,7 +9,7 @@
 
 ---
 [Ruinn the world](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/Ruin_The_World_Picture.png?raw=true"/>
 
 ---
 [Fake world](http://example.com/)
