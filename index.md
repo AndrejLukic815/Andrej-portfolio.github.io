@@ -6,7 +6,7 @@
 
 [About Me:](/sample_page)
 <img src="images/Photo_Cat_Picture.png?raw=true"/>
-Test text
+Hi my name is Andrej Lukić I am a game developer in Croatia.
 
 ### Games that I worked on:
 
@@ -27,6 +27,7 @@ Test text
 
 [Fake World](/sample_page)
 <img src="images/Fake_World_Picture.png?raw=true"/>
+Experience bugs and glitches of the newly created world that you need to pass in order to complete your existence.  You will use some glitches to go to the next level or avoid them and some are there to annoy you.
 
 ---
 
