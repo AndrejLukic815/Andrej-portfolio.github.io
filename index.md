@@ -5,7 +5,7 @@
 ### Category Name 1 
 
 [Just phot cat](/sample_page)
-<img src=https://img.itch.zone/aW1hZ2UvMTAxNjQxMy81Nzk3NTYwLmpwZWc>
+<img src=https://img.itch.zone/aW1hZ2UvMTAxNjQxMy81Nzk3NTYwLmpwZWc=/original/1fB9s0.jpeg>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
