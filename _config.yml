@@ -1,9 +1,21 @@
 title: Andrej Lukić # your name (or website title) here
 logo: "/images/Moja_Slika.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  Život je kako banana svi te gule 
+  Date of birth: 21.4.1999.
+  Age: 22
+  Location: Vukovar/Novska/ Croatia
   <br><br>
-  Samo jako 
+  Programming skills:
+  - Unity C#
+  
+  Other skills:
+  - Sound designe
+  
+  Software:
+  - FL studio
+  - Unity
+  - Mixamo
+  - Make human
   <br><br>
   <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
   
