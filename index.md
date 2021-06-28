@@ -4,7 +4,7 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
+[Just phot cat](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
