@@ -20,8 +20,8 @@ Test text
 
 ---
 
-[Just phot cat](/sample_page)
-<img src="images/Photo_Cat_Picture.png?raw=true"/>
+[Ruin the World](/sample_page)
+<img src="images/Ruin_The_World_Picture.png?raw=true"/>
 
 ---
 
