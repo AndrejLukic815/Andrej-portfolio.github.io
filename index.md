@@ -27,7 +27,7 @@ Hi my name is Andrej Lukić I am a game developer in Croatia.
 
 [Fake World](/sample_page)
 <img src="images/Fake_World_Picture.png?raw=true"/>
-Experience bugs and glitches of the newly created world that you need to pass in order to complete your existence.  You will use some glitches to go to the next level or avoid them and some are there to annoy you.
+Fake World is a game about glitches tha was made at game jam in education in Novska. Experience bugs and glitches of the newly created world that you need to pass in order to complete your existence.  You will use some glitches to go to the next level or avoid them and some are there to annoy you.
 
 ---
 
