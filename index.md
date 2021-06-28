@@ -18,6 +18,11 @@ Test text
 
 ---
 
+[Just phot cat](/sample_page)
+<img src="images/Photo_Cat_Picture.png?raw=true"/>
+
+---
+
 ### Links:
 
 - [Just Phot Cat](https://raven-insights.itch.io/just-photo-cat)
