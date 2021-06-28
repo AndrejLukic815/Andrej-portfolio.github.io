@@ -11,8 +11,8 @@ Test text
 ### Games that I worked on:
 
 ---
-[Ruin the world](/pdf/sample_presentation.pdf)
-<img src="images/Ruin_The_World_Picture.png?raw=true"/>
+[Mira's Tale](/pdf/sample_presentation.pdf)
+<img src="images/Miras_Tale_Picture.png?raw=true"/>
 
 ---
 [Fake world](http://example.com/)
