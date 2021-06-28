@@ -25,8 +25,8 @@ Test text
 
 ---
 
-[Just phot cat](/sample_page)
-<img src="images/Photo_Cat_Picture.png?raw=true"/>
+[Fake World](/sample_page)
+<img src="images/Fake_World_Picture.png?raw=true"/>
 
 ---
 
