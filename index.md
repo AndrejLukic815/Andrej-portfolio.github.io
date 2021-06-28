@@ -4,9 +4,11 @@
 
 ### Games that I worked on: 
 
-[Just phot cat](/sample_page)
+[About Me:](/sample_page)
 <img src="images/Photo_Cat_Picture.png?raw=true"/>
 Test text
+
+### Games that I worked on:
 
 ---
 [Ruin the world](/pdf/sample_presentation.pdf)
