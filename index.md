@@ -9,6 +9,8 @@
 Hi my name is Andrej Lukić and I am a game developer from Croatia.
 I started to get in game development about 3 years ago when I decided I wanted to make games.
 The video games are my passion so I wanted to turn it into a real job for me.
+I was born in small town named Vukovar situated on rear of Danube river.
+
 
 [What have I achieved:](/sample_page)
 <img src="images/Hakaton_Winner_Picture.png?raw=true"/>
@@ -55,7 +57,7 @@ Fake World is a game about glitches tha was made at game jam in education in Nov
 - [Just Phot Cat](https://raven-insights.itch.io/just-photo-cat)
 - [Ruin The World](https://thedynamitepriest.itch.io/ruin-the-world)
 - [Fake World](https://thedynamitepriest.itch.io/fake-world)
-- - [Mira's Tale](https://youtu.be/J2Sd-hQ5LrE)
+- [Mira's Tale](https://youtu.be/J2Sd-hQ5LrE)
 
 ---
 
