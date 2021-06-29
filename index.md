@@ -14,6 +14,7 @@ I finished law high school in Vukovar.
 As I started working in law industry i quickly realise that i didn't want to spend my entire life working on a job that i dont like.
 So I decided to quit my job and pursue my dream of becoming a game developer.
 Now my dream have becom a reallity as I have just started to enter into the gaming industry.
+This is just a beginning of my story and I hope it will have a happy ending in the industry.
 
 [What have I achieved:](/sample_page)
 <img src="images/Hakaton_Winner_Picture.png?raw=true"/>
