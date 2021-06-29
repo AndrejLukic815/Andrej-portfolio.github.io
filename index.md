@@ -9,8 +9,11 @@
 Hi my name is Andrej Lukić and I am a game developer from Croatia.
 I started to get in game development about 3 years ago when I decided I wanted to make games.
 The video games are my passion so I wanted to turn it into a real job for me.
-I was born in small town named Vukovar situated on rear of Danube river.
-
+I was born in small town named Vukovar situated near Danube river.
+I finished law high school in Vukovar.
+As I started working in law industry i quickly realise that i didn't want to spend my entire life working on a job that i dont like.
+So I decided to quit my job and pursue my dream of becoming a game developer.
+Now my dream have becom a reallity as I have just started to enter into the gaming industry.
 
 [What have I achieved:](/sample_page)
 <img src="images/Hakaton_Winner_Picture.png?raw=true"/>
