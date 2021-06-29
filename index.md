@@ -5,7 +5,7 @@
 ### Some information about me: 
 
 [About Me:](/sample_page)
-<img src="images/Testna_Slika.png?raw=true"/>
+<img src="images/Testna_Slika_1.png?raw=true"/>
 Hi my name is Andrej Lukić and I am a game developer from Croatia.
 I started to get in game development about 3 years ago when I decided I wanted to make games.
 The video games are my passion so I wanted to turn it into a real job for me.
