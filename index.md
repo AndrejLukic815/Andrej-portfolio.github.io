@@ -6,6 +6,7 @@
 
 [](/sample_page)
 <img src="images/Testna_Slika_1.png?raw=true"/>
+
 Hi my name is Andrej Lukić and I am a game developer from Croatia.
 
 I started to get in game development about 3 years ago when I decided I wanted to make games.
