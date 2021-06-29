@@ -19,6 +19,9 @@ This is just a beginning of my story and I hope it will have a happy ending in t
 [What have I achieved:](/sample_page)
 <img src="images/Hakaton_Winner_Picture.png?raw=true"/>
 
+[](/sample_page)
+<img src="images/Moja_Hakaton_Slika.png?raw=true"/>
+
 ### Games that I worked on:
 
 ---
