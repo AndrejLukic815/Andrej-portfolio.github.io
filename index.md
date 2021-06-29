@@ -4,7 +4,7 @@
 
 ### Some information about me: 
 
-[About Me:](/sample_page)
+[](/sample_page)
 <img src="images/Testna_Slika_1.png?raw=true"/>
 Hi my name is Andrej Lukić and I am a game developer from Croatia.
 
@@ -24,7 +24,9 @@ Now my dream have becom a reallity as I have just started to enter into the gami
 
 This is just a beginning of my story and I hope it will have a happy ending in the industry.
 
-[What have I achieved:](/sample_page)
+### What have I achieved: 
+
+[](/sample_page)
 <img src="images/Hakaton_Winner_Picture.png?raw=true"/>
 
 [](/sample_page)
