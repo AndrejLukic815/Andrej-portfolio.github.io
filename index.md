@@ -7,23 +7,23 @@
 [](/sample_page)
 <img src="images/Testna_Slika_1.png?raw=true"/>
 
-Hi my name is Andrej Lukić and I am a game developer from Croatia.
+Hi, my name is Andrej Lukić and I am a game developer from Croatia.
 
-I started to get in game development about 3 years ago when I decided I wanted to make games.
+I started to get in-game development about 3 years ago when I decided I wanted to make games.
 
-The video games are my passion so I wanted to turn it into a real job for me.
+Video games are my passion so I wanted to turn them into a real job for me.
 
-I was born in small town named Vukovar situated near Danube river.
+I was born in a small town named Vukovar situated near the Danube river.
 
 I finished law high school in Vukovar.
 
-As I started working in law industry i quickly realise that i didn't want to spend my entire life working on a job that i dont like.
+As I started working in the law industry I quickly realize that I didn’t want to spend my entire life working on a job that I don't like.
 
 So I decided to quit my job and pursue my dream of becoming a game developer.
 
-Now my dream have becom a reallity as I have just started to enter into the gaming industry.
+Now my dream has become a reality as I have just started to enter the gaming industry.
 
-This is just a beginning of my story and I hope it will have a happy ending in the industry.
+This is just the beginning of my story and I hope it will have a happy ending in the industry.
 
 ### What have I achieved: 
 
