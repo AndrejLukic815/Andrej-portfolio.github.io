@@ -29,21 +29,20 @@ This is just the beginning of my story and I hope it will have a happy ending in
 
 [](/sample_page)
 <img src="images/Hakaton_Winner_Picture.png?raw=true"/>
-I have participated in many game jams that includes locally in my comunity or global games jams in variety of game jam themes.
+I have participated in many game jams that include locally in my community or global games jams in a variety of game jam themes.
 
 Recently in Croatia ManpowerGroup and GameChuck organized a game jam with a theme to make a simulation in Unity.
 
-Me and my team won that competition and were also rewarded with bonsu place for most inovative and realistic simulation on that competition.
+I and my team won that competition and were also rewarded with a bonus place for the most innovative and realistic simulation in that competition.
 
-The purpos of this competition is to reward the best team with cash reward and also offer them a oppertunity to work on this project from competition.
-
+The purpose of this competition is to reward the best team with a cash reward and also offer them an opportunity to work on this project from the competition.
 [](/sample_page)
 <img src="images/Moja_Hakaton_Slika.png?raw=true"/>
-After the compatition ended we were offered a business offer by GameChuck to work with them on this project.
+After the competition ended we were offered a business offer by GameChuck to work with them on this project.
 
-The GameChuck LTD is a very succesfull gaming company in Croatia and working with them was very exciting and very productive.
+The GameChuck LTD is a very successful gaming company in Croatia and working with them was very exciting and very productive.
 
-I gained alot of experience working with them on this project.
+I gained a lot of experience working with them on this project.
 
 ### Games that I worked on:
 
