@@ -41,6 +41,10 @@ The purpos of this competition is to reward the best team with cash reward and a
 <img src="images/Moja_Hakaton_Slika.png?raw=true"/>
 After the compatition ended we were offered a business offer by GameChuck to work with them on this project.
 
+The GameChuck LTD is a very succesfull gaming company in Croatia and working with them was very exciting and very productive.
+
+I gained alot of experience working with them on this project.
+
 ### Games that I worked on:
 
 ---
