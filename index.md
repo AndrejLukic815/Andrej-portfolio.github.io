@@ -29,6 +29,13 @@ This is just a beginning of my story and I hope it will have a happy ending in t
 
 [](/sample_page)
 <img src="images/Hakaton_Winner_Picture.png?raw=true"/>
+I have participated in many game jams that includes locally in my comunity or global games jams in variety of game jam themes.
+
+Recently in Croatia ManpowerGroup organized a game jam with a theme to make a simulation in Unity.
+
+Me and my team won that competition and were also rewarded with bonsu place for most inovative and realistic simulation on that competition.
+
+
 
 [](/sample_page)
 <img src="images/Moja_Hakaton_Slika.png?raw=true"/>
