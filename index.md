@@ -31,14 +31,15 @@ This is just a beginning of my story and I hope it will have a happy ending in t
 <img src="images/Hakaton_Winner_Picture.png?raw=true"/>
 I have participated in many game jams that includes locally in my comunity or global games jams in variety of game jam themes.
 
-Recently in Croatia ManpowerGroup organized a game jam with a theme to make a simulation in Unity.
+Recently in Croatia ManpowerGroup and GameChuck organized a game jam with a theme to make a simulation in Unity.
 
 Me and my team won that competition and were also rewarded with bonsu place for most inovative and realistic simulation on that competition.
 
-
+The purpos of this competition is to reward the best team with cash reward and also offer them a oppertunity to work on this project from competition.
 
 [](/sample_page)
 <img src="images/Moja_Hakaton_Slika.png?raw=true"/>
+After the compatition ended we were offered a business offer by GameChuck to work with them on this project.
 
 ### Games that I worked on:
 
