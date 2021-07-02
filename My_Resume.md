@@ -10,6 +10,7 @@ Location: Vukovar/Croatia
 Age: 22
 
 Nationality: Croatian
+
 <b>
 Programming skills:
 </b>
