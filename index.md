@@ -88,6 +88,7 @@ Try to survive as long as possible in this endless run game. The world is burnin
 [Fake World](/sample_page)
 <img src="images/Fake_World_Picture.png?raw=true"/>
 Fake World is a game about glitches that was made at a game jam in education in Novska. Experience bugs and glitches of the newly created world that you need to pass in order to complete your existence.  You will use some glitches to go to the next level or avoid them and some are there to annoy you.
+
 ---
 
 
