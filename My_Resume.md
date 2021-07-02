@@ -1,7 +1,10 @@
 ## Resume
 
 ---
+
+<b>
 Some basic information:
+</b>
 
 Date of birth: 21.4.1999.
 
