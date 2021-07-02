@@ -95,9 +95,4 @@ Fake World is a game about glitches that was made at a game jam in education in 
 - [Mira's Tale](https://youtu.be/J2Sd-hQ5LrE)
 
 ---
-
-
-
-
----
 <!-- Remove above link if you don't want to attibute -->
