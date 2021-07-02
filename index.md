@@ -27,6 +27,8 @@ This is just the beginning of my story and I hope it will have a happy ending in
 
 ### What have I achieved: 
 
+---
+
 [](/sample_page)
 <img src="images/Hakaton_Winner_Picture.png?raw=true"/>
 I have participated in many game jams that include locally in my community or global games jams in a variety of game jam themes.
