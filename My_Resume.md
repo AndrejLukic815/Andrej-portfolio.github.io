@@ -27,11 +27,11 @@ Game Engines:
 - Make Human
 
 Other softwere:
-- Fl studio
-- Waveform
-- Audacity
-- FMOD
-- Wise
+- Fl studio &#9733; &#9733; &#9733; &#9733; &#9733;
+- Waveform &#9733; &#9733; &#9733; &#9733; &#9733;
+- Audacity &#9733; &#9733; &#9733; &#9733; &#9733;
+- FMOD &#9733; &#9733; &#9733; &#9733; &#9733; 
+- Wise &#9733; &#9733; &#9733; &#9733; &#9733;
 
 Contact:
 
