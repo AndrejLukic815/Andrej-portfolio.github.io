@@ -6,6 +6,10 @@
 Some basic information:
 </b>
 
+Name: Andrej
+
+Last name: Lukić
+
 Date of birth: 21.4.1999.
 
 Location: Vukovar/Croatia
