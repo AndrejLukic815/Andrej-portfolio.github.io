@@ -9,8 +9,9 @@ Location: Vukovar/Croatia
 Age: 22
 
 Nationality: Croatian
-
+<b>
 Programming skills:
+</b>
 - C# &#9733; &#9733; &#9733; &#9733; &#9733;
 - HTML &#9733; &#9733; &#9733; 
 
