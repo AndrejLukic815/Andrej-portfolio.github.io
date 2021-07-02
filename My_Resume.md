@@ -17,6 +17,15 @@ Programming skills:
 Database:
 -Firebase
 
+Game Engines:
+- Unity
+
+3D Modeling and animations:
+- Fuse
+- Sweet Home 3D
+- Mixamo
+- Make Human
+
 ---
 
 ### 1. Suggest hypotheses about the causes of observed phenomena
