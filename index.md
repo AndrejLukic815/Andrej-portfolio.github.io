@@ -80,6 +80,8 @@ The main idea behind this game is that you play a female character that tries to
 
 The world is being destroyed by unknown forces and you need to save yourself from destruction! As Commander Gonzales, your only objective is to survive!
 
+Try to survive as long as possible in this endless run game. The world is burning behind you as you are trying to pass obstacles in fornt of you.
+
 Try to survive as long as possible in this endless run game. The world is burning behind you as you are trying to pass obstacles in front of you.
 ---
 
