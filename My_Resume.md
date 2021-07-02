@@ -15,10 +15,10 @@ Programming skills:
 - HTML &#9733; &#9733; &#9733; 
 
 Database:
-- Firebase
+- Firebase &#9733; &#9733;
 
 Game Engines:
-- Unity
+- Unity &#9733; &#9733; &#9733; &#9733; &#9733;
 
 3D Modeling and animations:
 - Fuse &#9733; &#9733;
