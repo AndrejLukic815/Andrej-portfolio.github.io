@@ -63,3 +63,7 @@ Email: andrejlukic22@gmail.com
 ## My previous work
 
 ---
+
+## My accomplishments
+
+---
