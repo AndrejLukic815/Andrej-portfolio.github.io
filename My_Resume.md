@@ -52,8 +52,10 @@ Other softwere:
 - FMOD &#9733; &#9733; &#9733; &#9733; &#9733; 
 - Wise &#9733; &#9733; &#9733; &#9733; &#9733;
 
+<b>
 Contact:
-
+</b>
+  
 Email: andrejlukic22@gmail.com
 
 ---
