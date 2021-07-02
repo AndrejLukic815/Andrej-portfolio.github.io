@@ -33,6 +33,9 @@ Other softwere:
 - FMOD
 - Wise
 
+Contact:
+-Email:andrejlukic22@gmail.com
+
 ---
 
 ### 1. Suggest hypotheses about the causes of observed phenomena
