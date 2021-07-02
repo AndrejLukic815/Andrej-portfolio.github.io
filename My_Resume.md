@@ -21,10 +21,10 @@ Game Engines:
 - Unity
 
 3D Modeling and animations:
-- Fuse
-- Sweet Home 3D
-- Mixamo
-- Make Human
+- Fuse &#9733; &#9733;
+- Sweet Home 3D &#9733; &#9733; &#9733;
+- Mixamo &#9733; &#9733; &#9733; &#9733;
+- Make Human &#9733; &#9733;
 
 Other softwere:
 - Fl studio &#9733; &#9733; &#9733; &#9733; &#9733;
