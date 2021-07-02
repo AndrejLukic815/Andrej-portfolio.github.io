@@ -15,8 +15,7 @@ Programming skills:
 - HTML &#9733; &#9733; &#9733; 
 
 Database:
-
--Firebase
+- Firebase
 
 Game Engines:
 - Unity
