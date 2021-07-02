@@ -35,7 +35,7 @@ Other softwere:
 
 Contact:
 
--Email:andrejlukic22@gmail.com
+Email:andrejlukic22@gmail.com
 
 ---
 
