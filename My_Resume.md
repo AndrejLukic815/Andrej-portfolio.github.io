@@ -12,7 +12,7 @@ Nationality: Croatian
 
 Programming skills:
 - C# &#9733; &#9733; &#9733; &#9733; &#9733;
-- HTML
+- HTML &#9733; &#9733; &#9733; 
 
 Database:
 
