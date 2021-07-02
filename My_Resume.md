@@ -11,7 +11,7 @@ Age: 22
 Nationality: Croatian
 
 Programming skills:
-- C# &#9734;
+- C# &#9733; &#9733; &#9733; &#9733; &#9733;
 - HTML
 
 Database:
