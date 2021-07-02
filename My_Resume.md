@@ -59,7 +59,7 @@ Contact:
 Email: andrejlukic22@gmail.com
 
 ---
-<b>
-My previous work
-</b>
+
+## My previous work
+
 ---
