@@ -34,6 +34,7 @@ Other softwere:
 - Wise
 
 Contact:
+
 -Email:andrejlukic22@gmail.com
 
 ---
