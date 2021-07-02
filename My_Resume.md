@@ -18,10 +18,16 @@ Programming skills:
 - C# &#9733; &#9733; &#9733; &#9733; &#9733;
 - HTML &#9733; &#9733; &#9733; 
 
+<b>
 Database:
+</b>
+
 - Firebase &#9733; &#9733;
 
+<b>
 Game Engines:
+</b>  
+  
 - Unity &#9733; &#9733; &#9733; &#9733; &#9733;
 
 3D Modeling and animations:
