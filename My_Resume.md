@@ -60,7 +60,7 @@ Other softwere:
 Contact:
 </b>
   
-Email: andrejlukic22@gmail.com
+Email: andrejlukic22@gmail.com &#128231;
 
 ---
 
