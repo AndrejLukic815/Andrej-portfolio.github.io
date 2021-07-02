@@ -90,7 +90,6 @@ Fake World is a game about glitches that was made at a game jam in education in 
 
 ---
 
-
 ### Links:
 
 - [Just Phot Cat](https://raven-insights.itch.io/just-photo-cat)
