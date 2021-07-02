@@ -1,7 +1,7 @@
 ## Resume
 
 ---
-
+Some basic information:
 Date of birth: 21.4.1999.
 
 Location: Vukovar/Croatia
