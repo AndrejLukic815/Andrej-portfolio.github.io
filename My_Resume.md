@@ -64,6 +64,10 @@ Email: andrejlukic22@gmail.com
 
 ---
 
+## Education
+
+---
+
 ## My accomplishments
 
 ---
