@@ -2,6 +2,7 @@
 
 ---
 Some basic information:
+
 Date of birth: 21.4.1999.
 
 Location: Vukovar/Croatia
@@ -12,6 +13,7 @@ Nationality: Croatian
 <b>
 Programming skills:
 </b>
+
 - C# &#9733; &#9733; &#9733; &#9733; &#9733;
 - HTML &#9733; &#9733; &#9733; 
 
