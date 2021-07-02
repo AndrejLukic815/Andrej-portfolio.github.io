@@ -10,8 +10,6 @@ Age: 22
 
 Nationality: Croatian
 
-Contact: andrejlukic22@gmail.com
-
 Programming skills:
 - C#
 - HTML
