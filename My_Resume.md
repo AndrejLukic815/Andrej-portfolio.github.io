@@ -26,6 +26,13 @@ Game Engines:
 - Mixamo
 - Make Human
 
+Other softwere:
+- Fl studio
+- Waveform
+- Audacity
+- FMOD
+- Wise
+
 ---
 
 ### 1. Suggest hypotheses about the causes of observed phenomena
