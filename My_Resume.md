@@ -70,7 +70,9 @@ Email: andrejlukic22@gmail.com &#128231;
 
 ## Education
 I have graduated from law school in Croatia in 2018, 2 years later I have applied for a job as a 112 operator in my home town.
+
 In 2020 I got a degree in my profession as after on year on probation work I had to take an exam for this position.
+
 ---
 
 ## My accomplishments
