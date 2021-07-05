@@ -73,6 +73,12 @@ Email: andrejlukic22@gmail.com &#128231;
 ---
 
 ## My accomplishments
-On 13 of June I participated in Hakaton game jam that was organized in Novska by GamChuck and ManpowerGroup Croatia.
+I have participated in many game jams that include locally in my community or global games jams in a variety of game jam themes.
+
+Recently in Croatia ManpowerGroup and GameChuck organized a game jam with a theme to make a simulation in Unity.
+
+I and my team won that competition and were also rewarded with a bonus place for the most innovative and realistic simulation in that competition.
+
+The purpose of this competition is to reward the best team with a cash reward and also offer them an opportunity to work on this project from the competition.
 
 ---
