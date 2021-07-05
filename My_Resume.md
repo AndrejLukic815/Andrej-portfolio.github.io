@@ -73,5 +73,6 @@ Email: andrejlukic22@gmail.com &#128231;
 ---
 
 ## My accomplishments
+On 13 of June I participated in Hakaton game jam that was organized in Novska by GamChuck and ManpowerGroup Croatia.
 
 ---
