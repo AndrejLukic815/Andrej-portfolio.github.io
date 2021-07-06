@@ -96,7 +96,7 @@ When 2021 came along I started to participate in 6 month-long education about Ga
 ## My accomplishments
 I have participated in many game jams that include locally in my community or global games jams in a variety of game jam themes.
 
-Recently in Croatia <a herf="https://manpower.hr/news/new-post-1623069771">ManpowerGroup</a> and <a herf="https://game-chuck.com/">GameChuck</a>organized a game jam with a theme to make a simulation in Unity.
+Recently in Croatia <a herf="https://manpower.hr/news/new-post-1623069771">ManpowerGroup</a> and <a herf="https://game-chuck.com/">GameChuck</a> organized a game jam with a theme to make a simulation in Unity.
 
 I and my team won that competition and were also rewarded with a bonus place for the most innovative and realistic simulation in that competition.
 
