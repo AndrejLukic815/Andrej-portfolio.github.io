@@ -73,7 +73,7 @@ As this project was only made for the game jam we didn't work much on it as we w
 ---
 
 [Ruin the World](/sample_page)
-<img src="images/Ruin_The_World_Picture.png?raw=true"/>
+<img src="images/Ruin_The_World_Fix_Picture.png?raw=true"/>
 Ruin the World was a project that was made in a game jam, the theme of the jam was, Save yourself not the world.
 
 The main idea behind this game is that you play a female character that tries to save herself from a destructive world.
