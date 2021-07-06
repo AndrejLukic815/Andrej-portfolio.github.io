@@ -65,6 +65,14 @@ Email: andrejlukic22@gmail.com &#128231;
 ---
 
 ## My previous work
+Befor I was a Game Devloper I work as a 112 operator in my hometown.
+From the young age I wanted to make games so I decided to quit my job and start my journy as a Game Devloper.
+I first started to make games just to practice and dind't quit make any money on these games.
+Later I found out that there is a education in Novska that teaches people how to be a Game Devlopers.
+So I applied and got accepted.
+After couple of monts I make my first money by creating a realistic simulator.
+On 13 of Jun 2021 I participated in Hakaton game jam that was organized by GameChuck and ManPowerGroup Croatia.
+Me and my team won that competition and earn some money and on top of that made some bussines deals along the way.
 
 ---
 
