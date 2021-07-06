@@ -82,6 +82,10 @@ The world is being destroyed by unknown forces and you need to save yourself fro
 
 Try to survive as long as possible in this endless run game. The world is burning behind you as you are trying to pass obstacles in fornt of you.
 
+I was very happy to finish my first mobile game, I and my team won that game jam even though the competition was fierce.
+
+After that mobile game, we started to work on another called Slav quest which was a fun drinking game.
+
 ---
 
 [Fake World](/sample_page)
