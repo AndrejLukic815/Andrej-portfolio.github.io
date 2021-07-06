@@ -76,7 +76,7 @@ Later I found out that there is an education in Novska that teaches people how t
 So I applied and got accepted.
 After a couple of months, I make my first money by creating a realistic simulator.
 
-On 13 of Jun 2021, I participated in the Hackathon game jam that was organized by GameChuck and ManpowerGroup Croatia.
+On 13 of Jun 2021, I participated in the Hackathon game jam that was organized by <a herf="https://game-chuck.com/">GameChuck</a> GameChuck and ManpowerGroup Croatia.
 
 I and my team won that competition and earn some money and on top of that made some business deals along the way.
 
